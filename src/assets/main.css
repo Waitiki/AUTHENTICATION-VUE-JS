@@ -1,0 +1,17 @@
+button{
+    
+    padding: .5rem !important;
+    border-radius: 5px !important;
+    width: 25rem !important;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button:hover{
+    background-color: brown;
+    color: greenyellow;
+}
+
